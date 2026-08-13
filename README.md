@@ -10,7 +10,7 @@ Built and shipped an AI generation platform integrating **50+ AI models** across
 
 Built independently across **backend, infrastructure, payments, security, moderation, and product**.
 
-**2,100+ users · paying customers worldwide**
+**3,100+ users · paying customers worldwide**
 
 → [pigenai.art](https://pigenai.art/)
 
