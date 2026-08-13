@@ -1,16 +1,33 @@
-## Hi there 👋
+# Aditya Agrahari — building AI products, solo.
 
-<!--
-**Aditya-Agrahari1/Aditya-Agrahari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE, VIT Chennai · Final year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PigenAI
+
+Built and shipped an AI generation platform integrating **50+ AI models** across image and video generation.
+
+Built independently across **backend, infrastructure, payments, security, moderation, and product**.
+
+**2,100+ users · paying customers worldwide**
+
+→ [pigenai.art](https://pigenai.art/)
+
+---
+
+### Also shipped
+
+- **[PromptEnhancer](https://github.com/Aditya-Agrahari1)** — Chrome extension that rewrites and improves prompts for AI chat platforms
+- **[AutoVlogAI](https://github.com/Aditya-Agrahari1)** — automated pipeline that collects tech news, rewrites it with Gemini, and publishes content with zero manual intervention
+- **[FormX](https://github.com/Aditya-Agrahari1)** — turns static HTML forms into conversational, voice-ready chatbots
+
+---
+
+### Stack
+
+TypeScript · Node.js · Express · React · Next.js · Python · Firebase · Cloudflare R2 · FFmpeg
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/aditya-agrahari5/) · [PigenAI](https://pigenai.art/) · [GitHub](https://github.com/Aditya-Agrahari1)
